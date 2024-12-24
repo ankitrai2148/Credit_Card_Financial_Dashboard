@@ -1,3 +1,4 @@
+**Credit Card Financial Weekly Dashboard**
 **📈 Overview**
 This project is an interactive Credit Card Financial Weekly Dashboard designed to provide real-time insights into credit card operations. It enables stakeholders to monitor key performance metrics, track trends, and make data-driven decisions with ease.
 
